@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="630" viewBox="0 0 1000 630" role="img" aria-labelledby="title desc">
+  <title id="title">Qualidade dos registros VigiMed</title>
+  <desc id="desc">Indicador de 4,6% de notificações com informações suficientes para investigação e rastreabilidade, conforme estudo publicado por Lucas Pereira.</desc>
+  <rect width="1000" height="630" fill="#e8eeea"/>
+  <rect x="0" y="0" width="1000" height="14" fill="#2d827b"/>
+  <text x="64" y="82" fill="#255e5a" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="3">VIGIMED / QUALIDADE DOS REGISTROS</text>
+  <line x1="64" y1="112" x2="936" y2="112" stroke="#a4b8b2" stroke-width="2"/>
+  <text x="64" y="218" fill="#17373b" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Informação para investigar</text>
+  <text x="64" y="264" fill="#17373b" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">e rastrear o medicamento</text>
+  <text x="64" y="422" fill="#17373b" font-family="Arial, Helvetica, sans-serif" font-size="135" font-weight="700" letter-spacing="-9">4,6%</text>
+  <text x="497" y="344" fill="#38585a" font-family="Arial, Helvetica, sans-serif" font-size="27">das notificações analisadas</text>
+  <text x="497" y="381" fill="#38585a" font-family="Arial, Helvetica, sans-serif" font-size="27">reuniam os campos necessários</text>
+  <text x="497" y="418" fill="#38585a" font-family="Arial, Helvetica, sans-serif" font-size="27">para as duas finalidades</text>
+  <rect x="64" y="480" width="872" height="24" rx="12" fill="#c4d2cc"/>
+  <rect x="64" y="480" width="40" height="24" rx="12" fill="#2d827b"/>
+  <line x1="64" y1="548" x2="936" y2="548" stroke="#a4b8b2" stroke-width="2"/>
+  <text x="64" y="588" fill="#54716e" font-family="Arial, Helvetica, sans-serif" font-size="18">Indicador relatado na publicação do estudo · Lucas Pereira</text>
+</svg>

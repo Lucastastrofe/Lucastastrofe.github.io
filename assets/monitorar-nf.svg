@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="630" viewBox="0 0 1000 630" role="img" aria-labelledby="title desc">
+  <title id="title">Amostra do CSV do Monitorar-NF</title>
+  <desc id="desc">Coleta da página oficial da NF-e em 28 de setembro de 2026, com 14 autorizadores; amostra das linhas AM, BA, GO e MG com estados operando.</desc>
+  <rect width="1000" height="630" fill="#162e34"/>
+  <rect x="0" y="0" width="1000" height="14" fill="#62c5b7"/>
+  <text x="60" y="83" fill="#93d5ca" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="3">MONITORAR-NF / COLETA VERIFICADA</text>
+  <text x="60" y="161" fill="#f2f6f2" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">14 autorizadores registrados</text>
+  <text x="60" y="201" fill="#b8cfcc" font-family="Arial, Helvetica, sans-serif" font-size="23">Portal da NF-e · verificação da fonte em 28/09/2026 16:01:20</text>
+  <rect x="60" y="242" width="880" height="305" rx="8" fill="#f1f4f0"/>
+  <rect x="60" y="242" width="880" height="61" rx="8" fill="#dce8e2"/>
+  <rect x="60" y="294" width="880" height="9" fill="#dce8e2"/>
+  <text x="87" y="281" fill="#42635f" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">AUTORIZADOR</text>
+  <text x="370" y="281" fill="#42635f" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">AUTORIZAÇÃO4</text>
+  <text x="671" y="281" fill="#42635f" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">STATUS SERVIÇO4</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#1b393d">
+    <text x="87" y="349">AM</text><text x="370" y="349">operando</text><text x="671" y="349">operando</text>
+    <text x="87" y="410">BA</text><text x="370" y="410">operando</text><text x="671" y="410">operando</text>
+    <text x="87" y="471">GO</text><text x="370" y="471">operando</text><text x="671" y="471">operando</text>
+    <text x="87" y="532">MG</text><text x="370" y="532">operando</text><text x="671" y="532">operando</text>
+  </g>
+  <g fill="#53a995"><circle cx="346" cy="341" r="7"/><circle cx="647" cy="341" r="7"/><circle cx="346" cy="402" r="7"/><circle cx="647" cy="402" r="7"/><circle cx="346" cy="463" r="7"/><circle cx="647" cy="463" r="7"/><circle cx="346" cy="524" r="7"/><circle cx="647" cy="524" r="7"/></g>
+  <g stroke="#c9d8d0" stroke-width="1"><line x1="80" y1="364" x2="920" y2="364"/><line x1="80" y1="425" x2="920" y2="425"/><line x1="80" y1="486" x2="920" y2="486"/></g>
+  <text x="60" y="594" fill="#a9c5bf" font-family="Arial, Helvetica, sans-serif" font-size="19">Amostra de quatro linhas do CSV gerado em teste com a fonte oficial</text>
+</svg>
