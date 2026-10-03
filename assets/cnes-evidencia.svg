@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 630" role="img" aria-labelledby="title desc">
+  <title id="title">Resumo do painel CNES em Evidência</title>
+  <desc id="desc">Painel com 637.996 registros, 27 unidades federativas, oito controles e 9,3 por cento dos registros sem o par completo de coordenadas.</desc>
+  <rect width="1000" height="630" fill="#f7f5ef"/>
+  <rect x="48" y="42" width="904" height="546" fill="#fffefa" stroke="#b7c1bd" stroke-width="2"/>
+  <text x="86" y="98" fill="#176b52" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">CADASTRO NACIONAL DE ESTABELECIMENTOS DE SAÚDE</text>
+  <text x="86" y="150" fill="#17221f" font-family="Arial, sans-serif" font-size="40" font-weight="700">CNES em Evidência</text>
+  <text x="86" y="184" fill="#55635e" font-family="Arial, sans-serif" font-size="20">Qualidade cadastral antes da análise.</text>
+  <line x1="86" y1="218" x2="914" y2="218" stroke="#c9cfcc"/>
+  <g font-family="Arial, sans-serif">
+    <text x="86" y="258" fill="#55635e" font-size="16">Registros</text>
+    <text x="86" y="300" fill="#17221f" font-size="34" font-weight="700">637.996</text>
+    <text x="300" y="258" fill="#55635e" font-size="16">UFs presentes</text>
+    <text x="300" y="300" fill="#17221f" font-size="34" font-weight="700">27</text>
+    <text x="494" y="258" fill="#55635e" font-size="16">Controles</text>
+    <text x="494" y="300" fill="#17221f" font-size="34" font-weight="700">8</text>
+    <text x="680" y="258" fill="#55635e" font-size="16">Com achados</text>
+    <text x="680" y="300" fill="#a94c16" font-size="34" font-weight="700">1</text>
+  </g>
+  <rect x="86" y="344" width="828" height="102" fill="#f5e2d4"/>
+  <rect x="86" y="344" width="7" height="102" fill="#a94c16"/>
+  <text x="116" y="384" fill="#17221f" font-family="Arial, sans-serif" font-size="25" font-weight="700">9,3% sem o par completo de coordenadas</text>
+  <text x="116" y="418" fill="#55635e" font-family="Arial, sans-serif" font-size="18">59.184 de 637.996 registros processados</text>
+  <text x="86" y="500" fill="#17221f" font-family="Arial, sans-serif" font-size="18" font-weight="700">Rastreabilidade da execução</text>
+  <text x="86" y="532" fill="#55635e" font-family="Arial, sans-serif" font-size="17">Fonte · horário · SHA-256 · versão do código · reconciliação</text>
+  <text x="86" y="560" fill="#55635e" font-family="Arial, sans-serif" font-size="15">Somente contagens agregadas entram no painel.</text>
+</svg>
