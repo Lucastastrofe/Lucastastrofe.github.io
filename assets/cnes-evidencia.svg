@@ -1,49 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 630" role="img" aria-labelledby="title desc">
-  <title id="title">Parte 2 do CNES em Evidência</title>
-  <desc id="desc">Resumo da comparação entre registros do CNES e população estimada, com 638.867 registros, taxa nacional de 298 por 100 mil habitantes e variação de 105 no Amazonas a 453 no Rio Grande do Sul.</desc>
+  <title id="title">Parte 3 do CNES em Evidência</title>
+  <desc id="desc">Resumo da capacidade hospitalar cadastrada na competência agosto de 2026, com 523.117 leitos existentes, 354.435 destinados ao SUS e taxa nacional de 244 leitos por 100 mil habitantes.</desc>
   <rect width="1000" height="630" fill="#f7f5ef"/>
   <rect x="48" y="42" width="904" height="546" rx="8" fill="#fffefa" stroke="#b7c1bd" stroke-width="2"/>
   <g font-family="Arial, sans-serif">
-    <rect x="78" y="70" width="205" height="38" rx="19" fill="#edf2ef"/>
-    <text x="99" y="95" fill="#55635e" font-size="15" font-weight="700">1 · Qualidade cadastral</text>
-    <rect x="295" y="70" width="232" height="38" rx="19" fill="#176b52"/>
-    <text x="316" y="95" fill="#ffffff" font-size="15" font-weight="700">2 · Presença por população</text>
+    <rect x="78" y="70" width="190" height="38" rx="19" fill="#edf2ef"/>
+    <text x="96" y="95" fill="#55635e" font-size="14" font-weight="700">1 · Qualidade cadastral</text>
+    <rect x="280" y="70" width="218" height="38" rx="19" fill="#edf2ef"/>
+    <text x="298" y="95" fill="#55635e" font-size="14" font-weight="700">2 · Presença por população</text>
+    <rect x="510" y="70" width="221" height="38" rx="19" fill="#176b52"/>
+    <text x="528" y="95" fill="#ffffff" font-size="14" font-weight="700">3 · Capacidade hospitalar</text>
 
-    <text x="78" y="158" fill="#17221f" font-size="40" font-weight="700">CNES e população</text>
-    <text x="78" y="190" fill="#55635e" font-size="19">Comparação proporcional entre unidades federativas</text>
+    <text x="78" y="158" fill="#17221f" font-size="40" font-weight="700">Leitos hospitalares por UF</text>
+    <text x="78" y="190" fill="#55635e" font-size="19">Capacidade cadastrada total e destinada ao SUS</text>
 
     <g>
       <rect x="78" y="226" width="194" height="108" rx="6" fill="#f4f7f5" stroke="#d7dfdb"/>
-      <text x="96" y="255" fill="#55635e" font-size="14">Registros do CNES</text>
-      <text x="96" y="301" fill="#17221f" font-size="32" font-weight="700">638.867</text>
+      <text x="96" y="255" fill="#55635e" font-size="14">Leitos existentes</text>
+      <text x="96" y="301" fill="#17221f" font-size="32" font-weight="700">523.117</text>
     </g>
     <g>
       <rect x="288" y="226" width="194" height="108" rx="6" fill="#f4f7f5" stroke="#d7dfdb"/>
-      <text x="306" y="255" fill="#55635e" font-size="14">População estimada</text>
-      <text x="306" y="301" fill="#17221f" font-size="32" font-weight="700">214,2 mi</text>
+      <text x="306" y="255" fill="#55635e" font-size="14">Destinados ao SUS</text>
+      <text x="306" y="301" fill="#17221f" font-size="32" font-weight="700">354.435</text>
     </g>
     <g>
       <rect x="498" y="226" width="194" height="108" rx="6" fill="#edf6f1" stroke="#b9d2c6"/>
-      <text x="516" y="255" fill="#55635e" font-size="14">Brasil · por 100 mil</text>
-      <text x="516" y="301" fill="#176b52" font-size="32" font-weight="700">298</text>
+      <text x="516" y="255" fill="#55635e" font-size="14">Leitos por 100 mil</text>
+      <text x="516" y="301" fill="#176b52" font-size="32" font-weight="700">244</text>
     </g>
     <g>
       <rect x="708" y="226" width="194" height="108" rx="6" fill="#f4f7f5" stroke="#d7dfdb"/>
-      <text x="726" y="255" fill="#55635e" font-size="14">UFs comparadas</text>
-      <text x="726" y="301" fill="#17221f" font-size="32" font-weight="700">27</text>
+      <text x="726" y="255" fill="#55635e" font-size="14">Parcela SUS</text>
+      <text x="726" y="301" fill="#17221f" font-size="32" font-weight="700">67,8%</text>
     </g>
 
-    <text x="78" y="382" fill="#17221f" font-size="19" font-weight="700">Variação observada entre as UFs</text>
-    <text x="78" y="421" fill="#55635e" font-size="15">Rio Grande do Sul</text>
+    <text x="78" y="382" fill="#17221f" font-size="19" font-weight="700">Leitos por 100 mil habitantes</text>
+    <text x="78" y="421" fill="#55635e" font-size="15">Rondônia</text>
     <rect x="246" y="403" width="548" height="22" rx="4" fill="#2b716f"/>
-    <text x="813" y="421" fill="#17221f" font-size="17" font-weight="700">453</text>
+    <text x="813" y="421" fill="#17221f" font-size="17" font-weight="700">346</text>
     <text x="78" y="464" fill="#55635e" font-size="15">Amazonas</text>
-    <rect x="246" y="446" width="127" height="22" rx="4" fill="#86aaa1"/>
-    <text x="390" y="464" fill="#17221f" font-size="17" font-weight="700">105</text>
+    <rect x="246" y="446" width="274" height="22" rx="4" fill="#86aaa1"/>
+    <text x="537" y="464" fill="#17221f" font-size="17" font-weight="700">173</text>
 
     <line x1="78" y1="505" x2="902" y2="505" stroke="#d1d8d4"/>
     <text x="78" y="540" fill="#17221f" font-size="16" font-weight="700">Leitura correta</text>
-    <text x="210" y="540" fill="#55635e" font-size="16">A taxa mostra presença cadastral relativa; não mede oferta ou acesso à saúde.</text>
-    <text x="78" y="566" fill="#6b7a75" font-size="13">CNES + estimativa populacional do IBGE · execução publicada em 11/10/2026</text>
+    <text x="210" y="540" fill="#55635e" font-size="16">O cadastro não informa ocupação ou disponibilidade em tempo real.</text>
+    <text x="78" y="566" fill="#6b7a75" font-size="13">CNES Leitos + estimativa populacional do IBGE · competência 08/2026</text>
   </g>
 </svg>
