@@ -7,7 +7,6 @@
     <text x="78" y="88" fill="#176b52" font-size="13" font-weight="700" letter-spacing="1.5">CNES EM EVIDÊNCIA · PARTE 5</text>
     <text x="78" y="142" fill="#17221f" font-size="39" font-weight="700">Serviços registrados no CNES</text>
     <text x="78" y="176" fill="#55635e" font-size="18">Competência 09/2026 · contagens reconciliadas antes da publicação</text>
-
     <g>
       <rect x="78" y="212" width="194" height="100" rx="6" fill="#f4f7f5" stroke="#d7dfdb"/>
       <text x="96" y="240" fill="#55635e" font-size="14">Registros</text>
@@ -28,7 +27,6 @@
       <text x="726" y="240" fill="#55635e" font-size="14">Classificações</text>
       <text x="726" y="283" fill="#17221f" font-size="31" font-weight="700">342</text>
     </g>
-
     <text x="78" y="360" fill="#17221f" font-size="18" font-weight="700">Classificações com mais registros</text>
     <text x="78" y="400" fill="#55635e" font-size="14">174001 · Imunização</text>
     <rect x="316" y="383" width="410" height="22" rx="4" fill="#2b716f"/>
@@ -39,7 +37,6 @@
     <text x="78" y="480" fill="#55635e" font-size="14">159005 · Saúde Bucal</text>
     <rect x="316" y="463" width="352" height="22" rx="4" fill="#91aca5"/>
     <text x="688" y="480" fill="#17221f" font-size="16" font-weight="700">37.275</text>
-
     <line x1="78" y1="515" x2="902" y2="515" stroke="#d1d8d4"/>
     <text x="78" y="547" fill="#17221f" font-size="15" font-weight="700">Limite da leitura</text>
     <text x="213" y="547" fill="#55635e" font-size="15">Cadastro não comprova atendimento, disponibilidade ou produção.</text>
