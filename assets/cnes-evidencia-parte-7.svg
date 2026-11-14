@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 630" role="img" aria-labelledby="title desc">
+  <title id="title">Parte 7 do CNES em Evidência</title>
+  <desc id="desc">Profissionais cadastrados no CNES e participação associada ao atendimento no SUS na competência setembro de 2026.</desc>
+  <rect width="1000" height="630" fill="#f7f5ef"/>
+  <rect x="48" y="42" width="904" height="546" rx="8" fill="#fffefa" stroke="#b7c1bd" stroke-width="2"/>
+  <g font-family="Arial, sans-serif">
+    <text x="78" y="88" fill="#176b52" font-size="13" font-weight="700" letter-spacing="1.5">CNES EM EVIDÊNCIA · PARTE 7</text>
+    <text x="78" y="142" fill="#17221f" font-size="39" font-weight="700">Profissionais e atendimento ao SUS</text>
+    <text x="78" y="176" fill="#55635e" font-size="18">Competência 09/2026 · 27 UFs reconciliadas</text>
+
+    <g>
+      <rect x="78" y="212" width="250" height="100" rx="6" fill="#f4f7f5" stroke="#d7dfdb"/>
+      <text x="96" y="240" fill="#55635e" font-size="14">Profissionais cadastrados</text>
+      <text x="96" y="283" fill="#17221f" font-size="31" font-weight="700">4.763.485</text>
+    </g>
+    <g>
+      <rect x="344" y="212" width="250" height="100" rx="6" fill="#edf6f1" stroke="#b9d2c6"/>
+      <text x="362" y="240" fill="#55635e" font-size="14">Associados ao SUS</text>
+      <text x="362" y="283" fill="#176b52" font-size="31" font-weight="700">3.704.496</text>
+    </g>
+    <g>
+      <rect x="610" y="212" width="292" height="100" rx="6" fill="#f4f7f5" stroke="#d7dfdb"/>
+      <text x="628" y="240" fill="#55635e" font-size="14">Participação associada ao SUS</text>
+      <text x="628" y="283" fill="#17221f" font-size="31" font-weight="700">77,8%</text>
+    </g>
+
+    <text x="78" y="354" fill="#17221f" font-size="18" font-weight="700">Duas medidas para comparar as UFs</text>
+    <line x1="104" y1="485" x2="886" y2="485" stroke="#d7dfdb"/>
+    <line x1="104" y1="384" x2="104" y2="485" stroke="#d7dfdb"/>
+    <line x1="482" y1="384" x2="482" y2="485" stroke="#91a19b" stroke-width="2" stroke-dasharray="6 6"/>
+    <line x1="104" y1="431" x2="886" y2="431" stroke="#91a19b" stroke-width="2" stroke-dasharray="6 6"/>
+    <g fill="#654d70" fill-opacity=".82">
+      <circle cx="150" cy="401" r="7"/><circle cx="232" cy="416" r="7"/><circle cx="270" cy="393" r="7"/>
+      <circle cx="305" cy="449" r="7"/><circle cx="350" cy="407" r="7"/><circle cx="393" cy="420" r="7"/>
+      <circle cx="428" cy="389" r="7"/><circle cx="456" cy="443" r="7"/><circle cx="503" cy="412" r="7"/>
+      <circle cx="527" cy="452" r="7"/><circle cx="551" cy="424" r="7"/><circle cx="583" cy="396" r="7"/>
+      <circle cx="612" cy="440" r="7"/><circle cx="638" cy="406" r="7"/><circle cx="669" cy="418" r="7"/>
+      <circle cx="705" cy="390" r="7"/><circle cx="734" cy="447" r="7"/><circle cx="768" cy="402" r="7"/>
+      <circle cx="809" cy="465" r="7"/><circle cx="855" cy="419" r="7"/>
+    </g>
+    <text x="104" y="509" fill="#6b7a75" font-size="12">profissionais por 100 mil habitantes</text>
+    <text x="118" y="377" fill="#6b7a75" font-size="12">participação no SUS</text>
+    <text x="491" y="378" fill="#6b7a75" font-size="11">referências nacionais</text>
+    <line x1="78" y1="531" x2="902" y2="531" stroke="#d1d8d4"/>
+    <text x="78" y="559" fill="#17221f" font-size="15" font-weight="700">Limite</text>
+    <text x="135" y="559" fill="#55635e" font-size="15">Cadastro não mede jornada, disponibilidade, cobertura ou suficiência.</text>
+  </g>
+</svg>
